@@ -2,7 +2,7 @@
 
 Meu nome é Kethlen
 
-- Estou estudando da [Alura](https://www.alura.com.br)
+- Estou estudando a [Alura](https://www.alura.com.br)
 - Estou me dessenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
